@@ -1,5 +1,5 @@
 {
     "navigationFallback": {
-      "rewrite": "/seperateFiles/singlePage.html"
+      "rewrite": "/seperateFiles/index.html"
     }
   }
